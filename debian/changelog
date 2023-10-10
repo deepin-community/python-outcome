@@ -1,3 +1,11 @@
+python-outcome (1.2.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Drop "X-Python3-Version: all" since it is deprecated. Closes: #1003822.
+    Thanks to Julian Gilbey.
+
+ -- Robie Basak <robie@justgohome.co.uk>  Sun, 03 Jul 2022 13:53:52 +0100
+
 python-outcome (1.1.0-1) unstable; urgency=medium
 
   * New upstream release.
