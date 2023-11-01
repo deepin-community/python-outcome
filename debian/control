@@ -10,7 +10,6 @@ Build-Depends: debhelper,
                python3-async-generator,
                python3-pytest,
                python3-setuptools
-X-Python3-Version: all
 Homepage: https://github.com/python-trio/outcome
 
 Package: python3-outcome
